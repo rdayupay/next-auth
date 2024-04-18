@@ -8,6 +8,6 @@
   }
 
   a {
-    @apply underline font-bold;
+    @apply font-bold;
   }
 }
